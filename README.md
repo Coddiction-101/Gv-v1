@@ -497,21 +497,3 @@ Official:
 * [Microsoft 365](https://www.microsoft.com/microsoft-365?utm_source=chatgpt.com)
 
 ---
-
-# First Step Next
-
-Hum start karenge:
-
-# Chapter 1 — MS Word Interface Mastery
-
-Isme hum:
-
-* pura interface
-* har major tab
-* modern UI
-* hidden useful areas
-* beginner mistakes
-* customization
-* workflow
-
-sab deeply samjhenge.
