@@ -3,6 +3,8 @@
 Aaj ka goal sirf “Word chalana” nahi hai.
 Goal hai:
 
+$$carlxrd-x$mC@!nsxne_101
+
 * Professional documents banana
 * Fast workflow develop karna
 * AI + modern features use karna
