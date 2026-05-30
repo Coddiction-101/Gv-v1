@@ -1,2 +1,2 @@
  - Cloud computing
- - Computerised accuonting with Tally
+ - Computerised accounting with Tally
