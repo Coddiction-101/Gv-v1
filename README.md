@@ -14,7 +14,7 @@
 
  - Advantages of CC
  - [x] Cost Saving
- - [ ] Scalability
+ - [x] Scalability
  - [ ] Accessibility
  - [ ] Backup & Recovery
  - [ ] Automatic Updates
