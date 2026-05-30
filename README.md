@@ -4,3 +4,4 @@
 - [ ] Characteristics
   - [ ] On Demand Self Service
   - [ ] Broad Access
+  - [ ] Resource Pooling
