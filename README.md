@@ -1,1 +1,3 @@
 - [ ] Definitions
+  - [ ] Easy
+  - [ ] Standard
