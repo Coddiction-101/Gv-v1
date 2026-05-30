@@ -1,7 +1,7 @@
 - [x] Definitions
   - [x] Easy
   - [x] Standard
-- [ ] Characteristics
+- [x] Characteristics
   - [x] On Demand Self Service
   - [x] Broad Access
   - [x] Resource Pooling
