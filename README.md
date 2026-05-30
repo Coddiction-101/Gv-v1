@@ -17,6 +17,6 @@
  - [x] Scalability
  - [x] Accessibility
  - [ ] Backup & Recovery
- - [ ] Automatic Updates
+ - [x] Automatic Updates
    
 - Disadvantages of CC
