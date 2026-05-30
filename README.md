@@ -16,5 +16,6 @@
  - [x] Cost Saving
  - [ ] Scalability
  - [ ] Accessibility
+ - [ ] Backup & Recovery
    
 - Disadvantages of CC
