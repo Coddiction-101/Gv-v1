@@ -23,3 +23,4 @@
 - [x] Internet Dependency
 - [ ] Security Risks
 - [ ] Downtime
+- [ ] Limited Control
