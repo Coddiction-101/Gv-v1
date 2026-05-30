@@ -1,5 +1,5 @@
 - [x] Definitions
-  - [ ] Easy
+  - [x] Easy
   - [ ] Standard
 - [ ] Characteristics
   - [ ] On Demand Self Service
