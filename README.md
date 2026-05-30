@@ -7,7 +7,7 @@
   - [x] Resource Pooling
   - [x] Rapid Elasticity
   - [x] Measured Service
-- [ ] CC Arc
+- [x] CC Arc
 > User ' Mobile/Laption '
 
 > Cloud provider ( Server, Software, Storage, Database)
