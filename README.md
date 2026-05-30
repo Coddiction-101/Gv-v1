@@ -14,6 +14,7 @@
 
  - Advantages of CC
  - [x] Cost Saving
- - [ ] Scalibility
+ - [ ] Scalability
+ - [ ] 
    
 - Disadvantages of CC
