@@ -1,6 +1,6 @@
 - [x] Definitions
   - [x] Easy
-  - [ ] Standard
+  - [x] Standard
 - [ ] Characteristics
   - [ ] On Demand Self Service
   - [ ] Broad Access
