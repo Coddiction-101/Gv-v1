@@ -1,4 +1,4 @@
-- [ ] Definitions
+- [x] Definitions
   - [ ] Easy
   - [ ] Standard
 - [ ] Characteristics
