@@ -20,3 +20,4 @@
  - [x] Automatic Updates
    
 - Disadvantages of CC
+- [x] Internet Dependency
