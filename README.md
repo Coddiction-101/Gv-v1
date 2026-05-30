@@ -8,5 +8,6 @@
   - [ ] Rapid Elasticity
   - [ ] Measured Service
 - [ ] CC Arc
-      > User (Mobile/Laption
-      > Cloud provider ( Server, Software, Storage, Database)
+> User (Mobile/Laption
+
+> Cloud provider ( Server, Software, Storage, Database)
