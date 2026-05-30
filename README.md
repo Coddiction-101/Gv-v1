@@ -13,5 +13,6 @@
 > Cloud provider ( Server, Software, Storage, Database)
 
  - Advantages of CC
+ - [x] Cost Saving
    
 - Disadvantages of CC
