@@ -2,7 +2,7 @@
   - [x] Easy
   - [x] Standard
 - [ ] Characteristics
-  - [ ] On Demand Self Service
+  - [x] On Demand Self Service
   - [x] Broad Access
   - [ ] Resource Pooling
   - [ ] Rapid Elasticity
