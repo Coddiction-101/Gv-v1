@@ -21,3 +21,4 @@
    
 - Disadvantages of CC
 - [x] Internet Dependency
+- [ ] Security Risks
