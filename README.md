@@ -2,3 +2,4 @@
  - Computerised accounting with Tally
  - Social media analytics
  - Social media marketing
+ - SQL
