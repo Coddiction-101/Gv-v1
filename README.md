@@ -21,6 +21,6 @@
    
 - Disadvantages of CC
 - [x] Internet Dependency
-- [ ] Security Risks
+- [x] Security Risks
 - [ ] Downtime
 - [ ] Limited Control
