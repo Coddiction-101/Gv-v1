@@ -11,3 +11,5 @@
 > User ' Mobile/Laption '
 
 > Cloud provider ( Server, Software, Storage, Database)
+
+- Disadvantes of CC
