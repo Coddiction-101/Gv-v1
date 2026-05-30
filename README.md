@@ -5,3 +5,4 @@
   - [ ] On Demand Self Service
   - [ ] Broad Access
   - [ ] Resource Pooling
+  - [ ] Measured Service
