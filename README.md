@@ -1,5 +1,1 @@
- - Cloud computing
- - Computerised accounting with Tally
- - Social media analytics
- - Social media marketing
- - SQL
+Cloud computing is a technology that provides the computing services such as storage, server, software and the networking over the internet on demand.
