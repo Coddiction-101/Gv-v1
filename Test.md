@@ -3,4 +3,4 @@
 3. You just have to pay only for what services or resources you use.
 4. In these scenarios, servers get scaled up, where the rapid scalability comes into play.
 5. Since cloud computing is internet dependent so you need interne to access the resources without internet it become difficult
-6. cloud computing is a technology that provides the computing resources and services such as - Server, storage, software, database, network, security. Data and applications are stored on the remove servers that user can access it using the internet on a pay-as-you-use basis without managing the physical infrastructure.
+6. cloud computing is a technology that provides the computing resources and services such as - Server, storage, software, database, network, and security. Data and applications are stored on the remove servers that user can access it using the internet on a pay-as-you-use basis without managing the physical infrastructure.
