@@ -5,7 +5,7 @@
   - [x] On Demand Self Service
   - [x] Broad Access
   - [x] Resource Pooling
-  - [ ] Rapid Elasticity
+  - [x] Rapid Elasticity
   - [ ] Measured Service
 - [ ] CC Arc
 > User ' Mobile/Laption '
