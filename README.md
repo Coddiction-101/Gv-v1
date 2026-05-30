@@ -6,7 +6,7 @@
   - [x] Broad Access
   - [x] Resource Pooling
   - [x] Rapid Elasticity
-  - [ ] Measured Service
+  - [x] Measured Service
 - [ ] CC Arc
 > User ' Mobile/Laption '
 
