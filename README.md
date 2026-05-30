@@ -1,2 +1,3 @@
 - On-Demand self servvice
 - Broad Intenet
+- Resource pooling
