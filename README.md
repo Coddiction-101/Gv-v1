@@ -2,3 +2,4 @@
 - Broad Intenet
 - Resource pooling
 - Rapid elasticity
+- Measured service
