@@ -4,7 +4,7 @@
 - [ ] Characteristics
   - [x] On Demand Self Service
   - [x] Broad Access
-  - [ ] Resource Pooling
+  - [x] Resource Pooling
   - [ ] Rapid Elasticity
   - [ ] Measured Service
 - [ ] CC Arc
