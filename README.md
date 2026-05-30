@@ -1,3 +1,1 @@
- - Startup Internships
- - Remote Internships
- - Big Company Internships
+ 
