@@ -3,7 +3,7 @@
   - [x] Standard
 - [ ] Characteristics
   - [ ] On Demand Self Service
-  - [ ] Broad Access
+  - [x] Broad Access
   - [ ] Resource Pooling
   - [ ] Rapid Elasticity
   - [ ] Measured Service
