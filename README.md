@@ -2,3 +2,4 @@
   - [ ] Easy
   - [ ] Standard
 - [ ] Characteristics
+  - [ ] On Demand Self Service
