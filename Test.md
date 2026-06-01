@@ -8,3 +8,5 @@ while
 functions
 arrays
 strings
+
+I prefer to understand the core concepts and then go deeper to understand that particular concepts properly and finally practice it mindly so that i dont mind to learn after practice.
