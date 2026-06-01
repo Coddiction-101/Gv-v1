@@ -1,1 +1,2 @@
-**A database is a collection of organised data that can be easily accessed, managed and updated** 
+ - Right now im aiming for the internships that required for it and then i will plan to crack placements as well.
+ 
