@@ -2,4 +2,4 @@
  2. Logs in mysql
  3. Client - Server Arc in mysql
  4. Locking in mysql
- 5. 
+ 5. Information and Performance Schema
