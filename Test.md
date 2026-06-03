@@ -5,3 +5,4 @@
  5. Information and Performance Schema
  6. Mysql backeup and recovery
  7. Mysql Replication
+ 8. Steps to setup mysql replication
