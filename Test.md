@@ -6,3 +6,4 @@
  6. Mysql backeup and recovery
  7. Mysql Replication
  8. Steps to setup mysql replication
+ 9. Memory and resource allocation in mysql
