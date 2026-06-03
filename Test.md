@@ -7,3 +7,4 @@
  7. Mysql Replication
  8. Steps to setup mysql replication
  9. Memory and resource allocation in mysql
+ 10. Security and Privacy handling in mysql
