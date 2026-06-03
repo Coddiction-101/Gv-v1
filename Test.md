@@ -3,3 +3,4 @@
  3. Client - Server Arc in mysql
  4. Locking in mysql
  5. Information and Performance Schema
+ 6. Mysql backeup and recovery
