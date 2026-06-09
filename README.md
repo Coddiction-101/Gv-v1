@@ -5,3 +5,10 @@
 - Graphic Design
 - Copywriting
 - Content Writing
+- Photography
+- Public Speaking
+- AI Tools
+- Python
+- Prompt Engineering
+- Data Analysis
+- 
