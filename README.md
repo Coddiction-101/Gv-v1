@@ -1,1 +1,7 @@
- 
+- Video Editing
+- App Dev
+- Web Dev
+- Ui/Ux Design
+- Graphic Design
+- Copywriting
+- Content Writing
