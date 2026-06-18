@@ -2,6 +2,7 @@
 - App Dev
 - Web Dev
 - Ui/Ux Design
+- UX designer
 - Graphic Design
 - Copywriting
 - Content Writing
