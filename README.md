@@ -9,6 +9,36 @@
 - Public Speaking
 - AI Tools
 - Python
+- AI Trainer
 - Prompt Engineering
 - Data Analysis
-- 
+- AI/ML
+  - AIE
+  - MLE
+  - AI Product Manager
+  - Robotics AI Specialist
+- Cybersecurity
+  - Ethical Hacker
+  - Security Analyst
+  - Digital Forensic Expert
+- Data Science & Analytics
+  - Data Scientist
+  - Quant Analyst
+  - BI Analyst
+- Renewable Energy
+  -  Energy Engineer
+  -  EV Specialist
+  -  Sustainability Consultant
+- Bio-Technology
+  - Biomedical Engineer
+  - Biotech scientist
+  - Medical Researcher
+- Robotics & Automation
+  - Robotics Engineer
+  - Automation Specialist
+  - System Developer
+- Psychology & Behaviour Economics
+  - Attention
+  - Habits
+  - Decision-making
+  - Consumer Behaviour
