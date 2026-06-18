@@ -1,0 +1,257 @@
+# C++ Conditional Statements Practice Checklist
+
+This file is our step-by-step practice map for learning conditional statements in C++.
+
+Goal: har problem se ek useful real-world decision banana, so `if`, `else if`, `else`, logical operators, nested conditions, ternary, and `switch-case` naturally strong ho jaye.
+
+---
+
+## How We Will Use This
+
+- [ ] Ek time pe sirf one problem solve karenge
+- [ ] Pehle logic samjhenge in Hinglish
+- [ ] Then code line by line likhenge
+- [ ] Test cases run karenge
+- [ ] Bugs fix karenge
+- [ ] Jab concept clear ho jaye, checkbox tick karenge
+
+---
+
+## Level 1: Basic If / Else
+
+Focus: simple true/false decisions.
+    
+- [ ] Age voting checker
+- [x] Age voting checker (Done)
+  - Concept: `if`, `else`
+  - Logic: age `>= 18` means eligible, otherwise not eligible
+
+- [x] Positive / negative / zero checker (Done)
+  - Concept: `if`, `else if`, `else`
+  - Logic: number positive hai, negative hai, ya zero hai
+
+- [x] Even / odd checker (Done)
+  - Concept: modulo `%`
+  - Logic: number `% 2 == 0` means even
+
+---
+
+## Level 2: Else-If Ladder
+
+Focus: multiple ranges and ordered checking.
+
+- [x] Marks grading system (Done)
+  - Concept: range checking, `else if`
+  - Logic:
+    - `90-100`: Excellent
+    - `75-89`: Good
+    - `50-74`: Average
+    - `0-49`: Fail
+    - otherwise: Invalid marks
+
+- [x] Smart age category checker (Done)
+  - Concept: ordered conditions
+  - Logic:
+    - child
+    - teenager
+    - adult
+    - senior citizen
+
+- [x] Temperature mood checker (Done)
+  - Concept: range-based decisions
+  - Logic: cold, pleasant, hot, extreme heat
+
+---
+
+## Level 3: Logical Operators
+
+Focus: combine multiple conditions using `&&`, `||`, and `!`.
+
+- [x] Login validator (Done)
+  - Concept: `&&`
+  - Logic: username and password dono correct hone chahiye
+
+- [ ] Discount calculator
+  - Concept: `&&`, `else if`
+  - Logic:
+    - high amount + member = best discount
+    - high amount + non-member = smaller discount
+    - low amount + member = small discount
+
+- [ ] Scholarship eligibility checker
+  - Concept: multiple condition validation
+  - Logic: marks, income, and attendance ke basis pe eligibility
+
+---
+
+## Level 4: Nested Conditions
+
+Focus: ek decision ke andar doosra decision.
+
+- [ ] ATM withdrawal system
+  - Concept: nested `if`
+  - Logic:
+    - PIN wrong: deny
+    - amount invalid: deny
+    - amount greater than balance: insufficient balance
+    - otherwise: withdrawal successful
+
+- [ ] Movie ticket pricing
+  - Concept: nested condition + calculation
+  - Logic:
+    - child discount
+    - senior discount
+    - weekend extra charge
+
+- [ ] Weather outfit suggestion
+  - Concept: nested condition
+  - Logic:
+    - cold + raining: jacket and umbrella
+    - hot + no rain: light clothes
+    - rainy: umbrella
+
+---
+
+## Level 5: Ternary Operator
+
+Focus: short one-line decisions.
+
+- [ ] Bigger number finder
+  - Concept: `condition ? trueValue : falseValue`
+  - Logic: two numbers me bigger print karna
+
+- [ ] Pass / fail quick result
+  - Concept: ternary
+  - Logic: marks `>= 50` means pass, otherwise fail
+
+- [ ] Even / odd quick check
+  - Concept: ternary + modulo
+  - Logic: one-line even/odd result
+
+---
+
+## Level 6: Switch Case
+
+Focus: menu-based programs.
+
+- [ ] Mini calculator
+  - Concept: `switch-case`
+  - Logic: `+`, `-`, `*`, `/`
+  - Extra: division by zero handle karna
+
+- [ ] Food ordering menu
+  - Concept: menu choice handling
+  - Logic: user number choose kare, program item and price print kare
+
+- [ ] Encryption method selector
+  - Concept: switch menu
+  - Logic:
+    - `1`: Caesar cipher
+    - `2`: XOR encryption
+    - `3`: no encryption
+    - otherwise: invalid choice
+
+---
+
+## Level 7: Mixed Logic Mini Projects
+
+Focus: multiple conditional concepts together.
+
+- [ ] Smart traffic signal advisor
+  - Concept: string comparison + nested conditions
+  - Logic: red/yellow/green plus emergency vehicle handling
+
+- [ ] Student dashboard decision system
+  - Concept: grading + attendance + fee status
+  - Logic: student status summary generate karna
+
+- [ ] Password strength checker
+  - Concept: boolean variables + logical operators
+  - Logic:
+    - length enough hai ya nahi
+    - number included hai ya nahi
+    - special character included hai ya nahi
+    - final result: weak, medium, strong
+
+---
+
+# Future Capstone: Password Manager & Vault
+
+Ye hamara future project target hai. Abhi directly build nahi karenge, but conditional statements ke through iske small parts prepare karenge.
+
+## Project Idea
+
+A console-based password vault that can store, protect, search, generate, and retrieve passwords.
+
+## Future Features
+
+- [ ] Store passwords by website/app name
+- [ ] Master password protection
+- [ ] Strong password generator
+- [ ] Search password by website/app
+- [ ] Basic encryption/decryption
+- [ ] Persistent file storage
+- [ ] README documentation
+
+## Concepts Needed
+
+- [ ] Conditional statements
+- [ ] Loops
+- [ ] Functions
+- [ ] Strings
+- [ ] Arrays or vectors
+- [ ] Maps
+- [ ] File handling
+- [ ] OOP classes
+- [ ] Random number generation
+- [ ] Basic encryption
+- [ ] Basic hashing idea
+
+## Conditional Statement Prep For Password Manager
+
+- [ ] Master password login checker
+- [ ] Login attempt result checker
+- [ ] Password strength checker
+- [ ] Vault menu choice validator
+- [ ] Password generator rule validator
+- [ ] Encryption method selector
+
+## Loop Prep For Password Manager
+
+- [ ] Login with 3 attempts
+- [ ] Menu repeats until user exits
+- [ ] Generate multiple password options
+- [ ] Search until matching entry is found
+
+## Function Prep For Password Manager
+
+- [ ] `validateLogin()`
+- [ ] `checkPasswordStrength()`
+- [ ] `showVaultMenu()`
+- [ ] `generatePassword()`
+- [ ] `encryptPassword()`
+- [ ] `decryptPassword()`
+
+## OOP Prep For Password Manager
+
+- [ ] Build `PasswordEntry` class
+- [ ] Build `Vault` class
+- [ ] Add methods for add/search/delete
+- [ ] Connect file handling with class methods
+
+---
+
+## Current Focus
+
+We are currently learning:
+
+- [ ] `if`
+- [ ] `else`
+- [ ] `else if`
+- [ ] comparison operators
+- [ ] logical operators
+- [ ] nested conditions
+
+Current Focus:
+
+- [ ] Login validator
