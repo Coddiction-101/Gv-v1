@@ -1,1 +1,1 @@
- 
+ I was heading home from coaching when it suddenly started pouring. I rushed towards a tree to take shelter, while everyone else ran into nearby houses to escape the rain. Unfortunately, I couldn't avoid it and got completely drenched. My clothes got dirty too, which was even more annoying because they were brand new and I was wearing them for the first time. And as if that wasn't enough, my bicycle chain got messed up as well. What a day!
