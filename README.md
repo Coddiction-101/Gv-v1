@@ -1,47 +1,59 @@
-Here is the list of glitches covered in the video:
+Here’s a list of the items covered in the video:
 
-1. 80 milliseconds behind reality
-2. Quantum tunneling
-3. Observer changes reality
-4. Your atoms replaced
-5. Time runs differently
-6. Invisible blind spot
-7. Quantum entanglement
-8. Hot water freezes
-9. Banach-Tarski paradox
-10. Quantum vacuum
-11. Light experiences timelessness
-12. Birthday paradox
-13. Superluminal expansion
-14. Climbing liquid
-15. Quantum bird navigation
-16. Human microbiome
-17. Gabriel's horn
-18. Superconductivity
-19. Benford's law
-20. Frozen time near the event horizon of a black hole
-21. Non-Newtonian fluid
-22. Blindsight
-23. Cosmic horizon
-24. Quantum eraser
-25. Collatz conjecture
-26. Tetrachromatic vision
-27. Spaghettification
-28. Change blindness
-29. Observable universe
-30. Stopped clock illusion
-31. Second brain
-32. Cold ending
-33. Quantum superposition
-34. Vacuum energy
-35. Uncomputable problems
-36. Monty Hall problem
-37. Periodic tiling
-38. Cherenkov radiation
-39. Relative simultaneity
-40. Frame dragging
-41. Supercooled water
-42. Bose-Einstein condensate
-43. Albert's paradox
-44. Delayed choice
-45. Glass flows
+1. Immortal jellyfish
+2. Methuselah star
+3. Tardigrades
+4. Damascus steel
+5. The Great Attractor
+6. Platypus
+7. The WOW signal
+8. Axolotl regeneration
+9. Greek fire
+10. Ball lightning
+11. Bombardier beetle
+12. Magnetars
+13. Stradivarius violins
+14. Nazca lines
+15. The Voynich manuscript
+16. Sailing stones
+17. Blood Falls
+18. Oumuamua
+19. Hogg's object
+20. Oklo natural nuclear reactor
+21. Quasicrystals
+22. Time crystals
+23. Superfluid helium
+24. Quantum tunneling
+25. Neutron star mergers created Earth's gold
+26. Slime mold
+27. HeLa cells
+28. Acquired savant syndrome
+29. Synesthesia
+30. Fetal microchimerism
+31. Phantom limb pain
+32. Cotard's delusion
+33. Zombie ant fungus
+34. Lake Natron
+35. Mutual assured destruction
+36. Boltzmann brain
+37. Vacuum decay
+38. The self-aware universe
+39. The Fermi paradox
+40. Radioactive fungi at Chernobyl
+41. The bystander effect
+42. The Cobra effect
+43. The Peter principle
+44. The dancing plague of 1518
+45. Capgras delusion
+46. Kotard's delusion
+47. The double slit experiment
+48. Gödel's incompleteness theorem
+49. The Banach-Tarski paradox
+50. Graham's number
+51. Antimatter asymmetry
+52. Tabby's star
+53. The Boötes void
+54. Ton 618
+55. The Fairmy paradox
+
+If you need further information or details about any of these items, feel free to ask!
