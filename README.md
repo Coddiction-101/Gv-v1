@@ -55,5 +55,3 @@ Here’s a list of the items covered in the video:
 53. The Boötes void
 54. Ton 618
 55. The Fairmy paradox
-
-If you need further information or details about any of these items, feel free to ask!
