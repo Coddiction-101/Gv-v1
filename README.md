@@ -1,1 +1,4 @@
- 
+- [ ] wash clothes
+- [ ] learn python 1h
+- [ ] learn Java 1h
+- [ ] Silence 
