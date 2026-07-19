@@ -1,5 +1,1 @@
-- [ ] wash clothes
-- [ ] grooming 
-- [ ] learn python 1h
-- [ ] learn Java 1h
-- [ ] Silence 
+ 
