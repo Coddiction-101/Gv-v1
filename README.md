@@ -1,4 +1,3 @@
- # Task Tracker
 
 | Task | Status | Date |
 |------|--------|------|
