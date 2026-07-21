@@ -1,18 +1,19 @@
- FUNCTION isSubsequence(s, t)
+class Solution {
+public:
+    bool isSubsequence(string s, string t) {
 
-    i = 0
-    j = 0
+        int i = 0;
+        int j = 0;
 
-    WHILE i < length of s AND j < length of t
+        while (i < s.size() && j < t.size()) {
 
-        IF s[i] == t[j]
-            i = i + 1
-        END IF
+            if (s[i] == t[j]) {
+                i++;
+            }
 
-        j = j + 1
+            j++;
+        }
 
-    END WHILE
-
-    RETURN i == length of s
-
-END FUNCTION
+        return i == s.size();
+    }
+};
