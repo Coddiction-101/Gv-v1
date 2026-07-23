@@ -9,11 +9,12 @@ Context about me:
 - Goal: Become interview-ready for top software companies (FAANG+, startups, product-based companies)
 - I do NOT want to memorize solutions.
 - I want to understand every data structure, algorithm, pattern, and the reasoning behind them.
-- I am willing to spend months mastering the fundamentals.
+- I am willing to spend months mastering the fundamentals. or master almost half of it by the end of 2026
 - Assume I am starting from beginner-intermediate level.
+- I dont like to follow a sheet built by someone's experience and the random Ex employee from X company.
+- Most of the things are hard to understand properly so i need to make them in a way that i can understand and explain in a better way because I'm GenZ.
 
-Design the roadmap as a complete university-level curriculum.
-
+ 
 For EVERY topic, include ALL of the following sections.
 
 ────────────────────────────
@@ -25,10 +26,14 @@ Explain
 • Why this data structure or algorithm was invented.
 • Which problems it solves.
 • Why arrays alone aren't enough.
+- not just the code snipped but a full code example so that i can practice writing them.
 • Real-world applications.
 • Interview importance.
 • System design relevance.
 • Competitive programming relevance.
+
+
+- Decide you will gonna put everything into a single file or separated files to avoid confusion
 
 ────────────────────────────
 
