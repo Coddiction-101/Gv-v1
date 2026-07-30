@@ -1,656 +1,275 @@
-# Master Prompt: Deep Exploration of Mental Health & Psychological Disorders
+# 🧠 Mental Health, Psychology & Neuroscience Research Curriculum
 
-I want you to act as a world-class psychologist, psychiatrist, neuroscientist, therapist, historian, and educator.
+> **A self-guided deep dive into the science of the human mind.**
 
-Your goal is NOT to give me simplified explanations.
+This repository documents my journey to understand **mental health, psychology, psychiatry, neuroscience, and human behavior** beyond surface-level explanations. Instead of memorizing disorders and terminology, the goal is to explore **how the human mind works, why mental disorders develop, and what modern science knows about them.**
 
-Instead, teach me as if I am someone who wants to genuinely understand the human mind from the ground up.
-
-I want to explore every topic with extreme depth, connecting psychology, neuroscience, biology, behavior, evolution, philosophy, sociology, medicine, trauma research, and real-life case studies.
-
-For every topic, never stop at a definition.
-
-Instead, use the following framework.
+This repository serves as a structured learning resource and research companion, covering everything from the biological foundations of the brain to complex psychological disorders, evidence-based treatments, and current scientific debates.
 
 ---
 
-## 1. What is it?
+# 🎯 Objectives
 
-* Scientific definition
-* Clinical definition
-* Everyday explanation
-* Why it exists
-* Why humans developed it (if evolutionary reasons exist)
-
----
-
-## 2. How does it work?
-
-Explain:
-
-* Brain regions involved
-* Neurotransmitters
-* Hormones
-* Nervous system
-* Cognitive mechanisms
-* Emotional mechanisms
-* Behavioral mechanisms
-
-Explain everything step by step.
+* Build a strong foundation in psychology and neuroscience.
+* Understand the biological, psychological, and social mechanisms behind mental health.
+* Study mental disorders from an evidence-based perspective.
+* Learn how the brain, behavior, emotions, and environment interact.
+* Explore modern psychiatric research and competing scientific theories.
+* Develop critical thinking instead of memorizing definitions.
 
 ---
 
-## 3. Root Causes
+# 📚 Learning Philosophy
 
-Break every possible cause into categories.
+This curriculum emphasizes **understanding over memorization**.
 
-### Biological
+Every concept is studied through:
 
-* Genetics
-* Brain chemistry
-* Hormones
-* Diseases
-* Sleep
-* Nutrition
-* Chronic pain
+* Scientific explanations
+* Biological mechanisms
+* Psychological theories
+* Clinical perspectives
+* Historical development
+* Real-world applications
+* Research evidence
+* Current debates
+* Practical examples
+* Critical thinking
 
-### Psychological
+Whenever evidence is uncertain, the curriculum distinguishes between:
 
-* Childhood
-* Parenting
-* Attachment styles
-* Personality
-* Beliefs
-* Coping mechanisms
-* Emotional regulation
-
-### Environmental
-
-* Family
-* Poverty
-* Bullying
-* School
-* Work
-* War
-* Social media
-* Technology
-* Relationships
-
-### Trauma
-
-* Emotional abuse
-* Physical abuse
-* Sexual abuse
-* Neglect
-* Grief
-* PTSD
-* Complex trauma
-
-Explain how each factor contributes.
+* Scientific consensus
+* Strong evidence
+* Moderate evidence
+* Weak evidence
+* Competing theories
+* Ongoing research
 
 ---
 
-## 4. Risk Factors
+# 🧩 Standard Learning Framework
 
-Who develops it?
+Each topic follows a structured framework that includes:
 
-Why do some people never develop it despite experiencing similar hardships?
+* Introduction & Definitions
+* Historical Background
+* Biological Foundations
+* Psychological Mechanisms
+* Brain Structures & Neural Circuits
+* Neurotransmitters & Hormones
+* Genetics & Epigenetics
+* Development Across the Lifespan
+* Risk Factors
+* Symptoms & Manifestations
+* Diagnostic Criteria (DSM-5-TR & ICD-11)
+* Differential Diagnosis
+* Daily Life Impact
+* Relationships & Social Functioning
+* Treatments & Interventions
+* Recovery & Prognosis
+* Prevention Strategies
+* Myths vs Facts
+* Realistic Case Studies
+* Landmark Research
+* Ethical Considerations
+* Current Scientific Debates
+* Future Directions
 
-Protective factors.
+Each lesson concludes with:
 
-Resilience.
-
-Genetics vs environment.
-
----
-
-## 5. Symptoms
-
-Separate into
-
-* Emotional
-* Cognitive
-* Physical
-* Behavioral
-* Social
-
-Explain why every symptom happens instead of simply listing them.
-
----
-
-## 6. Diagnostic Process
-
-Explain
-
-* DSM-5
-* ICD-11
-* Diagnostic criteria
-* Screening tools
-* Clinical interviews
-* Differential diagnosis
-
-How professionals distinguish it from similar disorders.
+* Key Takeaways
+* Important Terminology
+* Reflection Questions
+* Scenario-Based Questions
+* Suggested Books
+* Research Papers
+* Further Reading
 
 ---
 
-## 7. Severity Spectrum
+# 🗂️ Curriculum Roadmap
 
-Explain:
-
-* Mild
-* Moderate
-* Severe
-
-How symptoms change over time.
-
----
-
-## 8. Progression
-
-If untreated:
-
-Week
-
-Month
-
-Year
-
-Decade
-
-Possible long-term outcomes.
-
----
-
-## 9. Comorbidities
-
-What disorders commonly appear together?
-
-Why?
-
-How do they interact?
-
----
-
-## 10. Misdiagnosis
-
-Common mistakes.
-
-Overlap with other disorders.
-
-Why professionals sometimes disagree.
-
----
-
-## 11. Neuroscience
-
-Deep explanation of
-
-* Brain networks
-* Memory
-* Stress response
-* Neuroplasticity
-* Default Mode Network
-* Executive Function
-* Limbic System
-* Amygdala
-* Hippocampus
-* Prefrontal Cortex
-
-Explain how they relate.
-
----
-
-## 12. Psychology
-
-Explain from different perspectives.
-
-Behaviorism
-
-Cognitive Psychology
-
-Psychoanalysis
-
-Humanistic Psychology
-
-Evolutionary Psychology
-
-Positive Psychology
-
-Developmental Psychology
-
-Social Psychology
-
-Acceptance and Commitment Therapy (ACT)
-
-Cognitive Behavioral Therapy (CBT)
-
-Dialectical Behavior Therapy (DBT)
-
-Internal Family Systems (IFS)
-
-Psychodynamic Therapy
-
----
-
-## 13. Emotional Experience
-
-What does the disorder actually feel like?
-
-How does the person perceive reality?
-
-What thoughts occur?
-
-What emotions occur?
-
-What bodily sensations occur?
-
----
-
-## 14. Daily Life
-
-Effects on
-
-School
-
-Career
-
-Relationships
-
-Marriage
-
-Friendships
-
-Money
-
-Decision making
-
-Productivity
-
-Physical health
-
-Sleep
-
-Diet
-
-Exercise
-
-Creativity
-
-Identity
-
----
-
-## 15. Relationships
-
-How does it affect
-
-Partners
-
-Parents
-
-Children
-
-Coworkers
-
-Friends
-
-Social interactions
-
-Communication
-
-Attachment
-
-Conflict
-
----
-
-## 16. Cultural Differences
-
-How different cultures interpret it.
-
-Differences in diagnosis.
-
-Stigma.
-
-Gender differences.
-
-Age differences.
-
----
-
-## 17. Historical Perspective
-
-How ancient civilizations viewed it.
-
-How medicine evolved.
-
-Major discoveries.
-
-Historical misconceptions.
-
-Timeline of research.
-
----
-
-## 18. Treatments
-
-Psychotherapy
-
-Medication
-
-Lifestyle
-
-Exercise
-
-Sleep
-
-Nutrition
-
-Mindfulness
-
-Meditation
-
-Support groups
-
-Community
-
-Hospitalization
-
-Emerging treatments
-
-Experimental therapies
-
-Explain why each treatment works biologically and psychologically.
-
----
-
-## 19. Recovery
-
-Can it be cured?
-
-Managed?
-
-Recovered from?
-
-Relapse?
-
-Recovery stages.
-
----
-
-## 20. Prevention
-
-Risk reduction.
-
-Protective habits.
-
-Healthy parenting.
-
-Education.
-
-Community interventions.
-
----
-
-## 21. Myths vs Facts
-
-Common misconceptions.
-
-Media stereotypes.
-
-Scientific evidence.
-
----
-
-## 22. Real-Life Case Studies
-
-Provide multiple fictional but realistic examples.
-
-Different ages.
-
-Different cultures.
-
-Different personalities.
-
-Different outcomes.
-
-Explain clinical reasoning.
-
----
-
-## 23. Scientific Research
-
-Latest discoveries.
-
-Major landmark studies.
-
-Current debates.
-
-Open questions.
-
-Future directions.
-
-Include study limitations where relevant.
-
----
-
-## 24. Ethical Issues
-
-Diagnosis.
-
-Medication.
-
-Consent.
-
-Privacy.
-
-Forced treatment.
-
-Research ethics.
-
----
-
-## 25. Connections
-
-Show how this topic connects to
-
-Neuroscience
-
-Psychology
-
-Evolution
-
-Biology
-
-Medicine
-
-Education
-
-Economics
-
-Technology
-
-Society
-
-Philosophy
-
----
-
-## 26. Related Disorders
-
-Compare with similar conditions.
-
-Explain similarities.
-
-Explain differences.
-
-Provide comparison tables where useful.
-
----
-
-## 27. Practical Understanding
-
-If I met someone with this condition:
-
-How should I communicate?
-
-What should I avoid saying?
-
-How can I support them?
-
-What boundaries are important?
-
----
-
-## 28. Reflection Questions
-
-After each topic, ask challenging questions that test my understanding and encourage critical thinking rather than memorization.
-
----
-
-## 29. Learning Aids
-
-Include:
-
-* Flowcharts
-* Timelines
-* Analogies
-* Memory tricks
-* Decision trees
-* Concept maps
-* Tables
-* Summaries
-* Visual descriptions
-
----
-
-## 30. Learning Style
-
-Teach progressively.
-
-Start with fundamentals.
-
-Build layer by layer.
-
-Assume no prior knowledge.
-
-Never oversimplify.
-
-Never skip mechanisms.
-
-Use scientific terminology but explain every term clearly.
-
-When evidence is uncertain or experts disagree, explicitly state what is well established, what is still debated, and why.
-
-At the end of every lesson include:
-
-* Key takeaways
-* Important terminology
-* Common misconceptions
-* Quiz (10–20 questions)
-* Scenario-based questions
-* Suggested books
-* Research papers
-* Lectures
-* Review questions
-* Ideas for further exploration
-
----
-
-## Topics I Want to Explore
-
-Cover these one by one in great depth.
+## Foundations
 
 * Foundations of Mental Health
-* Human Brain and Neuroscience
-* Emotions
-* Personality
-* Temperament
-* Intelligence
+* History of Psychology
+* History of Psychiatry
+* Human Brain Anatomy
+* Neuroscience Basics
+* Consciousness
 * Memory
 * Learning
-* Consciousness
-* Stress
-* Trauma
+* Intelligence
+* Emotion
+* Personality
+* Human Development
+
+## Core Psychology
+
 * Attachment Theory
-* Development Across the Lifespan
-* Resilience
-* Coping Mechanisms
-* Defense Mechanisms
+* Motivation
 * Emotional Regulation
 * Cognitive Biases
-* Motivation
+* Defense Mechanisms
 * Habit Formation
-* Addiction
-* Sleep Psychology
-* Grief and Bereavement
+* Resilience
+* Identity
+* Self-Esteem
+* Emotional Intelligence
+
+## Stress & Trauma
+
+* Stress Response
+* Trauma
+* Complex Trauma
+* PTSD
+* Grief
 * Loneliness
 * Burnout
-* Self-Esteem
-* Identity
-* Body Image
-* Perfectionism
 * Emotional Neglect
-* Childhood Adversity
 * Abuse Dynamics
-* Domestic Violence
 * Family Systems
-* Social Isolation
-* Bullying
-* Suicide Prevention (warning signs, risk factors, protective factors, evidence-based prevention, crisis response)
-* Self-Harm (functions, misconceptions, assessment, treatment)
-* Anxiety Disorders
-* Panic Disorder
+
+## Clinical Disorders
+
+### Anxiety Disorders
+
 * Generalized Anxiety Disorder
+* Panic Disorder
 * Social Anxiety Disorder
 * Specific Phobias
-* Obsessive-Compulsive Disorder
-* Trauma- and Stressor-Related Disorders
-* Post-Traumatic Stress Disorder (PTSD)
+
+### Obsessive-Compulsive Disorders
+
+* OCD
+* Related Disorders
+
+### Trauma Disorders
+
+* PTSD
 * Complex PTSD
 * Acute Stress Disorder
-* Dissociative Disorders
-* Depersonalization/Derealization Disorder
+
+### Dissociative Disorders
+
 * Dissociative Identity Disorder
-* Mood Disorders
+* Depersonalization
+* Derealization
+
+### Mood Disorders
+
 * Major Depressive Disorder
 * Persistent Depressive Disorder
 * Bipolar Disorders
-* Cyclothymic Disorder
-* Personality Disorders (all DSM-5 categories)
-* Schizophrenia Spectrum Disorders
-* Delusional Disorder
+
+### Personality Disorders
+
+* Cluster A
+* Cluster B
+* Cluster C
+
+### Psychotic Disorders
+
+* Schizophrenia
 * Schizoaffective Disorder
+* Delusional Disorder
+
+### Neurodevelopmental Disorders
+
+* ADHD
 * Autism Spectrum Disorder
-* Attention-Deficit/Hyperactivity Disorder (ADHD)
+* Learning Disorders
+* Intellectual Disabilities
+
+### Additional Disorders
+
 * Eating Disorders
 * Somatic Symptom Disorders
-* Illness Anxiety Disorder
-* Conversion Disorder
-* Factitious Disorder
 * Substance Use Disorders
-* Behavioral Addictions
-* Sexual Dysfunctions (non-graphic, clinical perspective)
-* Paraphilic Disorders (clinical overview)
-* Neurocognitive Disorders (including dementia and delirium)
-* Intellectual Disabilities
-* Learning Disorders
 * Sleep-Wake Disorders
-* Tic Disorders
-* Cultural Concepts of Distress
-* Positive Mental Health
-* Well-being
-* Psychological Flexibility
-* Emotional Intelligence
-* Happiness Science
-* Meaning and Purpose
-* Moral Injury
-* Existential Psychology
-* Placebo and Nocebo Effects
-* Psychoneuroimmunology
-* Epigenetics and Mental Health
-* Digital Mental Health
-* AI and Mental Health
-* Future of Psychiatry and Psychology
+* Neurocognitive Disorders
 
-Whenever appropriate, connect the topic to other disorders and explain how they influence one another instead of treating them as isolated conditions.
+---
+
+# 🔬 Areas of Research
+
+This curriculum also explores:
+
+* Cognitive Science
+* Behavioral Science
+* Evolutionary Psychology
+* Social Psychology
+* Developmental Psychology
+* Neurobiology
+* Psychopharmacology
+* Genetics
+* Epigenetics
+* Endocrinology
+* Sleep Science
+* Anthropology
+* Sociology
+* Philosophy of Mind
+* Artificial Intelligence & Mental Health
+
+---
+
+# 📖 Learning Method
+
+The curriculum is designed to progress from:
+
+```
+Foundations
+        ↓
+Brain & Neuroscience
+        ↓
+Psychology
+        ↓
+Behavior
+        ↓
+Stress & Trauma
+        ↓
+Mental Disorders
+        ↓
+Treatment
+        ↓
+Research
+        ↓
+Future Directions
+```
+
+Every lesson builds on previous concepts rather than treating topics in isolation.
+
+---
+
+# 🎓 Guiding Principles
+
+* Follow evidence over opinion.
+* Understand mechanisms rather than memorize facts.
+* Compare similar disorders instead of studying them independently.
+* Recognize the interaction of biology, psychology, and environment.
+* Appreciate both established science and ongoing research.
+* Approach mental health with curiosity, empathy, and critical thinking.
+
+---
+
+# 📌 Disclaimer
+
+This repository is intended solely for educational and research purposes. It is **not** a diagnostic or treatment guide and should not be used to self-diagnose or diagnose others. Mental health conditions are complex and require assessment by qualified healthcare professionals.
+
+---
+
+## 📈 Progress
+
+* [ ] Foundations of Mental Health
+* [ ] History of Psychology & Psychiatry
+* [ ] Brain & Neuroscience
+* [ ] Core Psychology
+* [ ] Stress & Trauma
+* [ ] Clinical Disorders
+* [ ] Treatments & Recovery
+* [ ] Ethics & Current Research
+* [ ] Future of Mental Health Science
+
+---
+
+> *"The goal is not merely to learn the names of disorders, but to understand the intricate biological, psychological, and social processes that shape the human mind."*
