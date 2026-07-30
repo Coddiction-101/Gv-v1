@@ -1,454 +1,656 @@
-I want you to act as a Principal Software Engineer at Google, a former ICPC competitor, a LeetCode interviewer, and a world-class computer science educator.
+# Master Prompt: Deep Exploration of Mental Health & Psychological Disorders
 
-Your task is NOT to give me a random DSA roadmap or a list of LeetCode problems.
+I want you to act as a world-class psychologist, psychiatrist, neuroscientist, therapist, historian, and educator.
 
-Instead, design the ultimate, complete, industry-level DSA curriculum that teaches me how to think like an engineer and solve problems independently.
+Your goal is NOT to give me simplified explanations.
 
-Context about me:
-- Language: C++
-- Goal: Become interview-ready for top software companies (FAANG+, startups, product-based companies)
-- I do NOT want to memorize solutions.
-- I want to understand every data structure, algorithm, pattern, and the reasoning behind them.
-- I am willing to spend months mastering the fundamentals. or master almost half of it by the end of 2026
-- Assume I am starting from beginner-intermediate level.
-- I dont like to follow a sheet built by someone's experience and the random Ex employee from X company.
-- Most of the things are hard to understand properly so i need to make them in a way that i can understand and explain in a better way because I'm GenZ.
+Instead, teach me as if I am someone who wants to genuinely understand the human mind from the ground up.
 
- 
-For EVERY topic, include ALL of the following sections.
+I want to explore every topic with extreme depth, connecting psychology, neuroscience, biology, behavior, evolution, philosophy, sociology, medicine, trauma research, and real-life case studies.
 
-────────────────────────────
+For every topic, never stop at a definition.
 
-1. WHY THIS TOPIC EXISTS
+Instead, use the following framework.
 
-Explain
+---
 
-• Why this data structure or algorithm was invented.
-• Which problems it solves.
-• Why arrays alone aren't enough.
-- not just the code snipped but a full code example so that i can practice writing them.
-• Real-world applications.
-• Interview importance.
-• System design relevance.
-• Competitive programming relevance.
+## 1. What is it?
 
+* Scientific definition
+* Clinical definition
+* Everyday explanation
+* Why it exists
+* Why humans developed it (if evolutionary reasons exist)
 
-- Decide you will gonna put everything into a single file or separated files to avoid confusion
+---
 
-────────────────────────────
+## 2. How does it work?
 
-2. THEORY
+Explain:
 
-Teach the topic from scratch.
+* Brain regions involved
+* Neurotransmitters
+* Hormones
+* Nervous system
+* Cognitive mechanisms
+* Emotional mechanisms
+* Behavioral mechanisms
 
-Include
+Explain everything step by step.
 
-• Definitions
-• Internal working
-• Memory layout
-• Time complexity
-• Space complexity
-• Cache friendliness
-• Advantages
-• Disadvantages
-• Tradeoffs
-• Edge cases
+---
 
-Do NOT skip implementation details.
+## 3. Root Causes
 
-────────────────────────────
+Break every possible cause into categories.
 
-3. CPP IMPLEMENTATION
+### Biological
 
-Explain
+* Genetics
+* Brain chemistry
+* Hormones
+* Diseases
+* Sleep
+* Nutrition
+* Chronic pain
 
-• STL version
-• Manual implementation
-• Constructors
-• Memory allocation
-• Pointer behavior
-• Iterators
-• Important methods
-• Common mistakes
-• Best practices
+### Psychological
 
-────────────────────────────
+* Childhood
+* Parenting
+* Attachment styles
+* Personality
+* Beliefs
+* Coping mechanisms
+* Emotional regulation
 
-4. OPERATIONS
+### Environmental
 
-For every operation explain
+* Family
+* Poverty
+* Bullying
+* School
+* Work
+* War
+* Social media
+* Technology
+* Relationships
 
-Insertion
+### Trauma
 
-Deletion
+* Emotional abuse
+* Physical abuse
+* Sexual abuse
+* Neglect
+* Grief
+* PTSD
+* Complex trauma
 
-Searching
+Explain how each factor contributes.
 
-Traversal
+---
 
-Sorting (if applicable)
+## 4. Risk Factors
 
-Updating
+Who develops it?
 
-Merging
+Why do some people never develop it despite experiencing similar hardships?
 
-Splitting
+Protective factors.
 
-Rotation
+Resilience.
 
-Reversal
+Genetics vs environment.
 
-etc.
+---
 
-For each operation include
+## 5. Symptoms
 
-• complexity
-• visualization
-• implementation logic
-• interview questions
+Separate into
 
-────────────────────────────
+* Emotional
+* Cognitive
+* Physical
+* Behavioral
+* Social
 
-5. PATTERNS
+Explain why every symptom happens instead of simply listing them.
 
-List every important pattern related to this topic.
+---
 
-Example
-
-Sliding Window
-
-Two Pointer
-
-Fast Slow Pointer
-
-Prefix Sum
-
-Binary Search on Answer
-
-Monotonic Stack
-
-Monotonic Queue
-
-Difference Array
-
-Greedy
-
-Backtracking
-
-DFS
-
-BFS
-
-Union Find
-
-Topological Sort
-
-Trie
-
-Segment Tree
-
-Dynamic Programming
-
-Bitmask DP
-
-Meet in the Middle
-
-etc.
+## 6. Diagnostic Process
 
 Explain
 
-• when to use
-• why it works
-• intuition
-• common mistakes
-• recognition tips
+* DSM-5
+* ICD-11
+* Diagnostic criteria
+* Screening tools
+* Clinical interviews
+* Differential diagnosis
 
-────────────────────────────
+How professionals distinguish it from similar disorders.
 
-6. PREREQUISITES
+---
 
-Exactly what should I know before learning this topic?
+## 7. Severity Spectrum
 
-Example
+Explain:
 
-Before Graph
+* Mild
+* Moderate
+* Severe
 
-Need
+How symptoms change over time.
 
-Queue
+---
 
-Stack
+## 8. Progression
 
-Recursion
+If untreated:
 
-Trees
+Week
 
-DFS
+Month
 
-BFS
+Year
 
-etc.
+Decade
 
-────────────────────────────
+Possible long-term outcomes.
 
-7. MINDSET
+---
 
-Teach
+## 9. Comorbidities
 
-How experienced programmers think.
+What disorders commonly appear together?
 
-How interviewers think.
+Why?
 
-How to identify hidden clues.
+How do they interact?
 
-How to avoid brute force.
+---
 
-How to derive optimal solutions.
+## 10. Misdiagnosis
 
-How to recognize patterns.
+Common mistakes.
 
-────────────────────────────
+Overlap with other disorders.
 
-8. COMMON MISTAKES
+Why professionals sometimes disagree.
 
-List
+---
 
-20+ beginner mistakes
+## 11. Neuroscience
 
-20+ intermediate mistakes
+Deep explanation of
 
-Interview traps
+* Brain networks
+* Memory
+* Stress response
+* Neuroplasticity
+* Default Mode Network
+* Executive Function
+* Limbic System
+* Amygdala
+* Hippocampus
+* Prefrontal Cortex
 
-Corner cases
+Explain how they relate.
 
-Overflow
+---
 
-Off-by-one
+## 12. Psychology
 
-Infinite loops
+Explain from different perspectives.
 
-Memory issues
+Behaviorism
 
-Undefined behavior
+Cognitive Psychology
 
-Recursion limits
+Psychoanalysis
 
-etc.
+Humanistic Psychology
 
-────────────────────────────
+Evolutionary Psychology
 
-9. PRACTICE PLAN
+Positive Psychology
 
-Create levels
+Developmental Psychology
 
-Level 0
+Social Psychology
 
-Understand concept
+Acceptance and Commitment Therapy (ACT)
 
-Level 1
+Cognitive Behavioral Therapy (CBT)
 
-Implement manually
+Dialectical Behavior Therapy (DBT)
 
-Level 2
+Internal Family Systems (IFS)
 
-Implement STL
+Psychodynamic Therapy
 
-Level 3
+---
 
-Trace examples
+## 13. Emotional Experience
 
-Level 4
+What does the disorder actually feel like?
 
-Dry run
+How does the person perceive reality?
 
-Level 5
+What thoughts occur?
 
-Small coding exercises
+What emotions occur?
 
-Level 6
+What bodily sensations occur?
 
-Pattern questions
+---
 
-Level 7
+## 14. Daily Life
 
-Medium problems
+Effects on
 
-Level 8
+School
 
-Hard problems
+Career
 
-Level 9
+Relationships
 
-Mixed revision
+Marriage
 
-Level 10
+Friendships
 
-Mock interview
+Money
 
-────────────────────────────
+Decision making
 
-10. LEETCODE SECTION
+Productivity
 
-Recommend problems in increasing order.
+Physical health
 
-Very Easy
+Sleep
 
-Easy
+Diet
 
-Easy+
+Exercise
 
-Medium
+Creativity
 
-Medium+
+Identity
 
-Hard
+---
 
-Hard+
+## 15. Relationships
 
-Mention
+How does it affect
 
-Why each problem is selected.
+Partners
 
-Which pattern it teaches.
+Parents
 
-What intuition it builds.
+Children
 
-Do NOT recommend random problems.
+Coworkers
 
-────────────────────────────
+Friends
 
-11. REVISION
+Social interactions
 
-How should I revise after
+Communication
 
-1 day
+Attachment
 
-3 days
+Conflict
 
-7 days
+---
 
-30 days
+## 16. Cultural Differences
 
-90 days
+How different cultures interpret it.
 
-using spaced repetition.
+Differences in diagnosis.
 
-────────────────────────────
+Stigma.
 
-12. INTERVIEW PREPARATION
+Gender differences.
 
-Teach
+Age differences.
 
-Expected interview questions.
+---
 
-Whiteboard tips.
+## 17. Historical Perspective
 
-Communication tips.
+How ancient civilizations viewed it.
 
-How to explain brute force.
+How medicine evolved.
 
-How to derive optimization.
+Major discoveries.
 
-How to discuss complexity.
+Historical misconceptions.
 
-────────────────────────────
+Timeline of research.
 
-13. REAL PROJECTS
+---
 
-Show where this topic is used in
+## 18. Treatments
 
-Operating Systems
+Psychotherapy
 
-Browsers
+Medication
 
-Databases
+Lifestyle
 
-Game Engines
+Exercise
 
-Compilers
+Sleep
 
-Networking
+Nutrition
 
-Search Engines
+Mindfulness
 
-AI
+Meditation
 
-Robotics
+Support groups
 
-Distributed Systems
+Community
 
-Linux
+Hospitalization
 
-Git
+Emerging treatments
 
-Filesystem
+Experimental therapies
 
-────────────────────────────
+Explain why each treatment works biologically and psychologically.
 
-14. MASTERY CHECKLIST
+---
 
-Create a checklist.
+## 19. Recovery
 
-I should not move to the next topic until I can confidently complete every item.
+Can it be cured?
 
-────────────────────────────
+Managed?
 
-15. FINAL CHEAT SHEET
+Recovered from?
 
-Summarize
+Relapse?
 
-Algorithms
+Recovery stages.
 
-Complexities
+---
 
-Patterns
+## 20. Prevention
 
-Recognition clues
+Risk reduction.
 
-Interview tricks
+Protective habits.
 
-Common pitfalls
+Healthy parenting.
 
-Best practices
+Education.
 
-Comparison tables
+Community interventions.
 
-Decision trees
+---
 
-────────────────────────────
+## 21. Myths vs Facts
 
-Build the curriculum in the optimal learning order, not alphabetical order.
+Common misconceptions.
 
-Do not assume prior knowledge.
+Media stereotypes.
 
-Explain every hidden concept.
+Scientific evidence.
 
-Do not skip topics that are usually ignored, such as:
-- Complexity analysis
-- Bit manipulation
-- Recursion trees
-- Amortized analysis
-- Memory management
-- Iterators
-- Comparator functions
-- Hash functions
-- Collision handling
-- Cache locality
-- Undefined behavior in C++
-- Integer overflow
-- Floating-point precision
-- Randomization
-- STL internals
-- Debugging strategies
-- Pattern recognition
-- Mathematical foundations (GCD, modular arithmetic, combinatorics, probability where relevant)
-- Invariants and proof of correctness
-- Testing strategies
-- Reading constraints to infer solutions
+---
 
-Finally, produce:
-1. A dependency graph of all topics.
-2. A week-by-week study plan.
-3. A revision calendar.
-4. A milestone-based progress tracker.
-5. A list of the 100 highest-value interview problems categorized by pattern, not by difficulty.
+## 22. Real-Life Case Studies
+
+Provide multiple fictional but realistic examples.
+
+Different ages.
+
+Different cultures.
+
+Different personalities.
+
+Different outcomes.
+
+Explain clinical reasoning.
+
+---
+
+## 23. Scientific Research
+
+Latest discoveries.
+
+Major landmark studies.
+
+Current debates.
+
+Open questions.
+
+Future directions.
+
+Include study limitations where relevant.
+
+---
+
+## 24. Ethical Issues
+
+Diagnosis.
+
+Medication.
+
+Consent.
+
+Privacy.
+
+Forced treatment.
+
+Research ethics.
+
+---
+
+## 25. Connections
+
+Show how this topic connects to
+
+Neuroscience
+
+Psychology
+
+Evolution
+
+Biology
+
+Medicine
+
+Education
+
+Economics
+
+Technology
+
+Society
+
+Philosophy
+
+---
+
+## 26. Related Disorders
+
+Compare with similar conditions.
+
+Explain similarities.
+
+Explain differences.
+
+Provide comparison tables where useful.
+
+---
+
+## 27. Practical Understanding
+
+If I met someone with this condition:
+
+How should I communicate?
+
+What should I avoid saying?
+
+How can I support them?
+
+What boundaries are important?
+
+---
+
+## 28. Reflection Questions
+
+After each topic, ask challenging questions that test my understanding and encourage critical thinking rather than memorization.
+
+---
+
+## 29. Learning Aids
+
+Include:
+
+* Flowcharts
+* Timelines
+* Analogies
+* Memory tricks
+* Decision trees
+* Concept maps
+* Tables
+* Summaries
+* Visual descriptions
+
+---
+
+## 30. Learning Style
+
+Teach progressively.
+
+Start with fundamentals.
+
+Build layer by layer.
+
+Assume no prior knowledge.
+
+Never oversimplify.
+
+Never skip mechanisms.
+
+Use scientific terminology but explain every term clearly.
+
+When evidence is uncertain or experts disagree, explicitly state what is well established, what is still debated, and why.
+
+At the end of every lesson include:
+
+* Key takeaways
+* Important terminology
+* Common misconceptions
+* Quiz (10–20 questions)
+* Scenario-based questions
+* Suggested books
+* Research papers
+* Lectures
+* Review questions
+* Ideas for further exploration
+
+---
+
+## Topics I Want to Explore
+
+Cover these one by one in great depth.
+
+* Foundations of Mental Health
+* Human Brain and Neuroscience
+* Emotions
+* Personality
+* Temperament
+* Intelligence
+* Memory
+* Learning
+* Consciousness
+* Stress
+* Trauma
+* Attachment Theory
+* Development Across the Lifespan
+* Resilience
+* Coping Mechanisms
+* Defense Mechanisms
+* Emotional Regulation
+* Cognitive Biases
+* Motivation
+* Habit Formation
+* Addiction
+* Sleep Psychology
+* Grief and Bereavement
+* Loneliness
+* Burnout
+* Self-Esteem
+* Identity
+* Body Image
+* Perfectionism
+* Emotional Neglect
+* Childhood Adversity
+* Abuse Dynamics
+* Domestic Violence
+* Family Systems
+* Social Isolation
+* Bullying
+* Suicide Prevention (warning signs, risk factors, protective factors, evidence-based prevention, crisis response)
+* Self-Harm (functions, misconceptions, assessment, treatment)
+* Anxiety Disorders
+* Panic Disorder
+* Generalized Anxiety Disorder
+* Social Anxiety Disorder
+* Specific Phobias
+* Obsessive-Compulsive Disorder
+* Trauma- and Stressor-Related Disorders
+* Post-Traumatic Stress Disorder (PTSD)
+* Complex PTSD
+* Acute Stress Disorder
+* Dissociative Disorders
+* Depersonalization/Derealization Disorder
+* Dissociative Identity Disorder
+* Mood Disorders
+* Major Depressive Disorder
+* Persistent Depressive Disorder
+* Bipolar Disorders
+* Cyclothymic Disorder
+* Personality Disorders (all DSM-5 categories)
+* Schizophrenia Spectrum Disorders
+* Delusional Disorder
+* Schizoaffective Disorder
+* Autism Spectrum Disorder
+* Attention-Deficit/Hyperactivity Disorder (ADHD)
+* Eating Disorders
+* Somatic Symptom Disorders
+* Illness Anxiety Disorder
+* Conversion Disorder
+* Factitious Disorder
+* Substance Use Disorders
+* Behavioral Addictions
+* Sexual Dysfunctions (non-graphic, clinical perspective)
+* Paraphilic Disorders (clinical overview)
+* Neurocognitive Disorders (including dementia and delirium)
+* Intellectual Disabilities
+* Learning Disorders
+* Sleep-Wake Disorders
+* Tic Disorders
+* Cultural Concepts of Distress
+* Positive Mental Health
+* Well-being
+* Psychological Flexibility
+* Emotional Intelligence
+* Happiness Science
+* Meaning and Purpose
+* Moral Injury
+* Existential Psychology
+* Placebo and Nocebo Effects
+* Psychoneuroimmunology
+* Epigenetics and Mental Health
+* Digital Mental Health
+* AI and Mental Health
+* Future of Psychiatry and Psychology
+
+Whenever appropriate, connect the topic to other disorders and explain how they influence one another instead of treating them as isolated conditions.
