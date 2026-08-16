@@ -76,19 +76,6 @@ a {
     transform: translateY(-0.06em);
 }
 
-.header-link {
-    color: var(--text-secondary);
-    font-family: "Montserrat", sans-serif;
-    font-size: 0.82rem;
-    text-decoration: none;
-    transition:
-        color 160ms ease,
-        border-color 160ms ease;
-}
-
-.header-link:hover {
-    color: var(--text-primary);
-}
 
 .hero {
     max-width: 820px;
