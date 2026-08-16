@@ -4,37 +4,110 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Explore GitHub profiles and public repositories.">
   <link rel="stylesheet" href="style.css">
-  <title>GitVerse MVP</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+
+
+  <title>GitVerse — GitHub Profile Explorer</title>
 </head>
 
 <body>
-  <main>
-    <h1>GitVerse.</h1>
-    <p>Search a public GitHub profile and view its repositories.</p>
+  <main class="app-shell">
 
-    <form id="search-form">
-      <label for="username">GitHub username</label>
-      <input id="username" name="username" required>
-      <button type="submit">Search</button>
-    </form>
+    <header class="site-header">
+      <a class="brand" href="#">
+        GitVerse<span aria-hidden="true"></span>
+      </a>
 
-    <p id="status" aria-live="polite"></p>
+      <a class="header-link" href="https://github.com" target="_blank" rel="noreferrer">
+        Visit GitHub ↗
+      </a>
+    </header>
 
-    <section id="profile" hidden>
-      <img id="avatar" alt="">
-      <div>
+    <section class="hero">
+      <p class="eyebrow">GitHub profile explorer</p>
+
+      <h1>
+        Discover the code behind
+        <span>any GitHub profile.</span>
+      </h1>
+
+      <p class="hero-description">
+        Search for a developer and explore their public repositories,
+        languages, stars, and profile information.
+      </p>
+
+      <form id="search-form" class="search-form">
+        <label class="sr-only" for="username">
+          GitHub username
+        </label>
+
+        <input id="username" name="username" type="text" placeholder="Enter a GitHub username" autocomplete="off"
+          required>
+
+        <button type="submit">Explore</button>
+      </form>
+
+
+      <p id="status" aria-live="polite"></p>
+    </section>
+
+    <section id="profile" class="profile" hidden>
+      <img id="avatar" class="profile-avatar" alt="">
+
+      <div class="profile-content">
+        <p id="username-display" class="profile-username"></p>
         <h2 id="name"></h2>
-        <p id="bio"></p>
-        <a id="github-link" target="_blank" rel="noreferrer">View GitHub profile</a>
+        <p id="bio" class="profile-bio"></p>
+
+        <div class="profile-details">
+          <span id="location"></span>
+          <span id="company"></span>
+        </div>
+
+        <dl class="profile-stats">
+          <div>
+            <dt>Repositories</dt>
+            <dd id="public-repos">0</dd>
+          </div>
+
+          <div>
+            <dt>Followers</dt>
+            <dd id="followers">0</dd>
+          </div>
+
+          <div>
+            <dt>Following</dt>
+            <dd id="following">0</dd>
+          </div>
+        </dl>
+
+        <a id="github-link" class="profile-link" target="_blank" rel="noreferrer">
+          View GitHub profile ↗
+        </a>
       </div>
     </section>
 
-    <section id="repositories" hidden>
-      <h2>Repositories</h2>
-      <ul id="repo-list"></ul>
+    <section id="repositories" class="repositories" hidden>
+      <header class="section-header">
+        <div>
+          <p class="section-label">Public work</p>
+          <h2>Repositories</h2>
+        </div>
+
+        <p id="repo-count" class="repo-count"></p>
+      </header>
+
+      <ul id="repo-list" class="repo-list"></ul>
     </section>
+
   </main>
+
   <script src="script.js"></script>
 </body>
 
