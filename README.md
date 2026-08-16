@@ -2,4 +2,4 @@
 
 --- 
 
-**GitVerse** - Is a github profile visualizer
+**GitVerse** 
