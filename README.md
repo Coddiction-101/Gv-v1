@@ -1,1 +1,1 @@
-- [ ] Build MVP
+- [x] Build MVP
